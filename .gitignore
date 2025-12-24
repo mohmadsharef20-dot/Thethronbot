@@ -1,1 +1,4 @@
-
+database/data.db
+backups/
+__pycache__/
+.env
